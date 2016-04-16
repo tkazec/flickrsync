@@ -1,0 +1,10 @@
+{
+	"name": "flickrsync",
+	"version": "0.0.0",
+	"dependencies": {
+		"async": "2.0.0-rc.3",
+		"ff": "0.2.1",
+		"flickrapi": "0.4.2"
+	},
+	"private": true
+}
